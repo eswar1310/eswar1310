@@ -1,7 +1,7 @@
 # Hello, World! I'm Eswar Melam 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eswar1310/eswar1310/main/assets/banner.png" alt="AI Engineer Portfolio Banner" width="100%" />
+  <img src="https://github.com/eswar1310/eswar1310/blob/main/banner.png" alt="AI Engineer Portfolio Banner" width="100%" />
 </div>
 
 <br />
