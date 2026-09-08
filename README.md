@@ -30,7 +30,7 @@
 I am an **AI Engineer & Systems Developer** specialized in designing production-ready artificial intelligence solutions. My experience ranges from training and evaluating predictive models to building multi-container microservice architectures and deploying local-first generative AI engines. I design applications that are reproducible, containerized, and optimized for real-world deployment.
 
 > [!NOTE]  
-> **Academic & Career Focus:** I am currently preparing for **German Master’s admissions (AI, Data Science, Industrial AI)** and seeking research assistant positions or AI/ML engineering internships. My academic interest lies in deep learning systems scalability, telemetry integration, and edge-AI.
+> **Academic & Career Focus:** I am currently pursuing an M.Sc. in Industrial Artificial Intelligence at Hochschule Albstadt-Sigmaringen, Germany. My academic and professional interests focus on Generative AI, Machine Learning, Deep Learning, intelligent systems, and scalable AI applications. I am actively seeking opportunities to gain practical experience through research, internships, and AI/ML engineering roles.
 
 ---
 
